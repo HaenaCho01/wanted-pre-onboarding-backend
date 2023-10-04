@@ -10,10 +10,10 @@
 
 ## 설계
 ### ERD
-![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FMnyEF%2Fbtsw2HnzS2N%2FprzZaD8ygUCQnUgpSj8Zfk%2Fimg.png)
+![erd](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FrZNFo%2Fbtsw0gDE6hU%2FzmpPaIydr0vv48P1gZaLDk%2Fimg.png)
 
 ### API
-![api](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbHsWoL%2Fbtsw7ywQZni%2FEKrd068xA4MLeaf9lwg4k0%2Fimg.jpg)
+![api](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcjaaRG%2FbtswbeHWY0M%2Ffb5KKMY9YK2Blzt22xakw1%2Fimg.jpg)
 
 ## 기능
 1. 채용공고 등록
