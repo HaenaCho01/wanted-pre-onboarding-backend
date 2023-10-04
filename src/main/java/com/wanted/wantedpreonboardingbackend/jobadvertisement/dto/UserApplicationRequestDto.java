@@ -3,7 +3,6 @@ package com.wanted.wantedpreonboardingbackend.jobadvertisement.dto;
 import lombok.Getter;
 
 @Getter
-public class JobAdvertisementApplicationResponseDto {
-    private Long jobAdvertisementId;
+public class UserApplicationRequestDto {
     private Long userId;
 }

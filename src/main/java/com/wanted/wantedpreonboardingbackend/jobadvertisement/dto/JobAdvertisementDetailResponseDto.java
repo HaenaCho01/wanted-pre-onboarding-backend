@@ -26,6 +26,9 @@ public class JobAdvertisementDetailResponseDto {
         this.compensation = jobAdvertisement.getCompensation();
         this.skill = jobAdvertisement.getSkill();
         this.description = jobAdvertisement.getDescription();
-        this.companyOtherJobAdvertisements = jobAdvertisement.getCompany().getJobAdvertisements().stream().map(JobAdvertisement::getId).toList();
+        this.companyOtherJobAdvertisements = jobAdvertisement.getCompany().
+                getJobAdvertisements().stream()
+                .filter(otherAdvertisement -> !otherAdvertisement.getId().equals(jobAdvertisement.getId()))
+                .map(JobAdvertisement::getId).toList();
     }
 }

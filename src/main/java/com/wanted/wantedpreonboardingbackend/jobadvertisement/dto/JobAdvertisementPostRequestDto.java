@@ -6,7 +6,7 @@ import lombok.Getter;
 public class JobAdvertisementPostRequestDto {
     private Long companyId;
     private String position;
-    private String compensation;
+    private int compensation;
     private String description;
     private String skill;
 }
